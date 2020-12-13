@@ -6,3 +6,5 @@ Python网络爬虫项目代码仓库
 研究方向：网络爬虫、数据挖掘、文本挖掘、数据可视化
 
 使用工具：数据库工具Mysql + 数据挖掘工具Python+SPSS Modeler + 可视化工具Tableau
+
+Python编辑器：Pycharm + Jupyter notebook
